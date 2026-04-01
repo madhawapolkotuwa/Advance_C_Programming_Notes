@@ -1,5 +1,7 @@
 # Advanced C Programming Notes
 
+![](Advanced_C_Programming.png)
+
 ## 📌 Overview
 
 This repository contains structured **Markdown documentation** covering advanced concepts in the C programming language.
